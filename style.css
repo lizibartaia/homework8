@@ -1,0 +1,167 @@
+body{
+    margin: 0px;
+    padding:0 ;
+    background-color: rgb(70, 66, 66);
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+flex-wrap:wrap;
+justify-content:space-between;
+}
+
+#guitar {
+    float: left;
+
+}
+.nav a.sound{
+    float: left;
+}
+
+i{
+    font-size: 24px;
+    float: right;
+    padding:8px;
+    color: blue;
+}
+.nav{
+    background-color: rgb(22, 21, 21);
+    
+    overflow: hidden;
+    
+}
+
+.nav i.fas fa-guitar{
+    float: left;
+    font-size: 40px;
+}
+
+.nav a{
+    float: 40px;
+    padding: 33.6px 33.6px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    display: inline-block;
+    margin: 0 10px 0 0;
+    
+
+
+}
+.nav a:hover{
+    background-color: rgb(146, 22, 22);
+    color: white;
+    
+}
+.down{
+    float: 40px;
+    margin-left: 260px;
+    border-radius: 30px;
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+
+}
+#guitar{
+    font-size: 70px;
+    padding-left: 5px;
+    color: white;
+}
+
+.event{
+    width:1200px;
+    height: 310px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+   
+}
+.image{
+    margin: 30px;
+}
+.night{
+   
+    background-color: white;
+    width: 350px;
+    height: 600px;
+    margin-left: 455px;
+    margin-top: 500px;
+    position: absolute;
+    
+    
+    
+    
+    
+
+}
+.laser{
+    width: 350px;
+    height: 300px;
+    display: block;
+ 
+  
+}
+.more{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 95px;
+   
+}
+.liveimg{
+    width: 350px;
+    height: 300px;
+    display: block;
+}
+.more2{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 95px;
+}
+.live{
+    background-color: white;
+    width: 350px;
+    height: 600px;
+    margin-left: 30px;
+    margin-top: 45px;
+    
+}
+.more3{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 40px;
+    margin-left: 95px;
+}
+.dj{
+    width: 350px;
+    height: 300px;
+    display: block;
+}
+.party{
+    background-color: white;
+    width: 350px;
+    height: 600px;
+    margin-left: 880px;
+    margin-top: 500px;
+    left: 0;
+    position: absolute;
+    
+    
+}
+p{
+    margin-left: 10px;
+}
+h1{
+    margin-left: 10px;
+}
